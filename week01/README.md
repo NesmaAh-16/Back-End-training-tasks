@@ -15,8 +15,9 @@ Create a basic Laravel web application where the homepage (`/`) displays a stati
 
 3. The page must be implemented using a **Blade view**, not by returning a plain string from the route.
 
-**You should**
+## You should
+
 - Visiting `http://localhost:8000/` shows:
   - `Hello, World!`
-  - `Hello, Bahaa` (or any other name stored in the variable).
+  - `Hello, Ali` (or any other name stored in the variable).
 - The name value is passed from the route to the view as a variable, not hard-coded inside the Blade file.
