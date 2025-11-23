@@ -8,7 +8,7 @@ Create a basic Laravel web application where the homepage (`/`) displays a stati
 
 1. The homepage must display the following two lines:
    - The static message: **"Hello, World!"**
-   - A personalized greeting that uses a dynamic name variable, for example: **"Hello, Yaseen"**.
+   - A personalized greeting that uses a dynamic name variable, for example: **"Hello, Ali"**.
 
 2. The name must be passed from the **route** to the **Blade view** as a variable.
    - The name must **not** be hard-coded directly inside the Blade view.
