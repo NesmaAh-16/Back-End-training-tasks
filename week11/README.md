@@ -129,7 +129,7 @@ Make actions feel polished.
 - Bulk force delete works and respects authorization.
 - Trash filters/search return correct results.
 
-# Bonus Expected Outcome
+### Bonus Expected Outcome
 - Trash page supports bulk actions, search, and filters.
 - Force Delete is safer with confirmations/guardrails.
 - Cleanup command supports real-world maintenance.
